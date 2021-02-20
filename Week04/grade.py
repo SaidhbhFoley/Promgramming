@@ -1,4 +1,4 @@
-#This program reads inva students percentage and prints out the corresponding grade
+#This program reads students percentage and prints out the corresponding grade
 #Author: Saidhbh Foley
 
 percentage = float (input ("Enter the percentage:"))
