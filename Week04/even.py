@@ -8,3 +8,9 @@ if (number % 2) == 0:
 
 else:
     print ("{} is an odd number".format (number))
+
+i = 0
+while i > 0:
+    print (i)
+else:
+    print ("This has ended the loop")
